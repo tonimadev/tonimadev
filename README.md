@@ -5,6 +5,13 @@
 <h3>
   A passionate Software Developer focused on building robust mobile and wearable apps.
 </h3>
+
+  <p>
+    <a href="https://fidd.com.br" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/🕳️_FIDD-fidd.com.br-F59E0B?style=for-the-badge&labelColor=121212" alt="FIDD: fidd.com.br" height="40"/>
+    </a>
+  </p>
+
   <p>
     <a href="https://www.linkedin.com/in/tonimadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://play.google.com/store/apps/dev?id=6594602823307179845" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
@@ -14,8 +21,39 @@
 
 ---
 
+### 🕳️ Featured Project: [FIDD](https://fidd.com.br)
+
+<table>
+  <tr>
+    <td>
+      <h3>🚗 <a href="https://fidd.com.br" target="_blank" rel="noopener noreferrer">fidd.com.br</a></h3>
+      <b>FIDD (Ferramenta Inteligente de Detecção de Danos)</b> is my Android app that turns your phone into a <b>pothole detector</b>.
+      Just drive: the phone senses the impact, GPS marks the exact spot, and reports from different drivers add up to a <b>collaborative, anonymous map</b> of road damage.
+      <br/><br/>
+      <ul>
+        <li>📳 <b>Automatic detection</b>: runs in the background with the screen locked, no need to touch the phone while driving</li>
+        <li>🧠 <b>Sensors + machine learning</b>: tells a real pothole apart from braking, speed bumps, asphalt joints or the phone moving in its mount</li>
+        <li>🗺️ <b>Self-organizing live map</b>: duplicate reports merge into a single point, confirmed once several drivers independently hit it</li>
+        <li>✅ <b>Community-driven lifecycle</b>: reported → confirmed → fixed (by community vote) → recurring if it reopens within 90 days</li>
+        <li>🏙️ <b>City ranking</b>: which cities have the most potholes, fix them fastest, or see them come back</li>
+        <li>🔒 <b>Private by design</b>: no account, no login; the map shows where the problem is, never who reported it</li>
+      </ul>
+      <p align="center">
+        <a href="https://fidd.com.br" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/See_the_live_map-fidd.com.br-F59E0B?style=for-the-badge&labelColor=121212" alt="See the live map at fidd.com.br"/></a>
+        <br/>
+        <a href='https://play.google.com/store/apps/details?id=com.ipirangatech.fidd&gl=BR' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
+        <br/>
+        <sub>🇧🇷 Available on Google Play in Brazil only</sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 👨‍💻 About Me
 
+- 🕳️ Creator of **[FIDD](https://fidd.com.br)**, a crowdsourced pothole-detection app for drivers.
 - 🚀 Focused on native **Android Development** following industry best practices.
 - ⌚️ Experience in developing applications for **Wear OS**.
 - 🧩 Enthusiast of **Kotlin Multiplatform (KMP)**, passionate about creating shared and efficient code.
@@ -23,7 +61,11 @@
 
 ---
 
-### Top apps
+### 📱 Top Apps
+
+**🕳️ FIDD: pothole detection** · [fidd.com.br](https://fidd.com.br) · 🇧🇷 Brazil only
+
+<a href='https://play.google.com/store/apps/details?id=com.ipirangatech.fidd&gl=BR' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.kairos&theme=dark">
@@ -32,14 +74,9 @@
 
 <a href='https://play.google.com/store/apps/details?id=digital.tonima.kairos' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.myworkout&theme=dark">
-  <img alt="PlayBadges Card Kairos" src="https://playbadges.pavi2410.com/badge/full?id=digital.tonima.myworkout">
-</picture>
-
-<a href='https://play.google.com/store/apps/details?id=digital.tonima.myworkout' target="_blank" rel="noopener noreferrer"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/></a>
-
-
+<p>
+  <a href="https://play.google.com/store/apps/dev?id=6594602823307179845" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/See_all_my_apps-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="See all my apps on Google Play"/></a>
+</p>
 
 ---
 
@@ -139,3 +176,9 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+<div align="center">
+  <sub>🚗 Hit a pothole today? Make it count at <a href="https://fidd.com.br"><b>fidd.com.br</b></a> · Thanks for visiting!</sub>
+</div>
